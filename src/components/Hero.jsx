@@ -13,8 +13,9 @@ const Hero = () => {
       </h1>
 
       <h2 className='desc'>
-        Simplify your reading with Summarist, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Experience the future of reading with our AI-powered article summarizer. 
+        Get instant, accurate summaries of any article, saving you time while 
+        keeping you informed. Perfect for students, researchers, and busy professionals.
       </h2>
     </header>
   )
